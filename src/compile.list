@@ -1,3 +1,9 @@
 ./Controleur.java
 
 ./ihm/FramePrc.java
+./ihm/PanelChat.java
+./ihm/PanelJeu.java
+./ihm/PanelOption.java
+
+./metier/Plateau.java
+./metier/Joueur.java
